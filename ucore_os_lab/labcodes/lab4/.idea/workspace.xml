@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13dbecd-9c1a-4137-988f-76cf3a4be667" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab2/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/boot/bootasm.S" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/boot/bootasm.S" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/debug/kdebug.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/debug/kdebug.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/debug/kdebug.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/debug/kdebug.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/debug/kmonitor.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/debug/kmonitor.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/debug/kmonitor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/debug/kmonitor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/driver/console.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/driver/console.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/init/init.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/init/init.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/libs/readline.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/libs/readline.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/mm/default_pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/mm/default_pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/mm/memlayout.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/mm/memlayout.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/mm/mmu.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/mm/mmu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/mm/pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/mm/pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/mm/pmm.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/mm/pmm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/trap/trap.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/trap/trap.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/kern/trap/trap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/kern/trap/trap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/libs/elf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/libs/elf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/libs/error.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/libs/error.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/libs/printfmt.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/libs/printfmt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/libs/string.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/libs/string.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/libs/x86.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/libs/x86.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/tools/grade.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/tools/grade.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/tools/kernel.ld" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/tools/kernel.ld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/debug/kdebug.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/debug/kdebug.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/mm/default_pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/mm/default_pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/mm/pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/mm/pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/mm/swap_fifo.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/mm/swap_fifo.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/mm/vmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/mm/vmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/kern/trap/trap.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/kern/trap/trap.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/tools/gdbinit" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/tools/gdbinit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/debug/kdebug.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/debug/kdebug.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/mm/default_pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/mm/default_pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/mm/pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/mm/pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/mm/swap_fifo.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/mm/swap_fifo.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/mm/vmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/mm/vmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kern/process/proc.c" beforeDir="false" afterPath="$PROJECT_DIR$/kern/process/proc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labcodes_answer/lab3_result/kern/mm/swap_fifo.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../labcodes_answer/lab3_result/kern/mm/swap_fifo.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eUTxRS4aSlsFeuDnezD5Zh71Eb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13dbecd-9c1a-4137-988f-76cf3a4be667" name="Default Changelist" comment="" />
+      <created>1594375417398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594375417398</updated>
+      <workItem from="1594375418625" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594375761836">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1594375761836" />
+  </component>
+</project>
